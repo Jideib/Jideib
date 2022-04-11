@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jideib, Ibraheem 'Jide Alawode
-- 👀 I’m interested in Data Science, Machine Learning and App development
+- 👀 I’m interested in Data Science, Machine Learning and App development.
 - 🌱 I’m currently Expanding my knowledge in my area of interest
 - 💞️ I’m looking to take on any challenge and collaborate with anyone in these area
 - 📫 I can be reached via jideibraheem@gmail.com or Twittter @IOAlawode.
