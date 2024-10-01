@@ -1,6 +1,6 @@
 - ## Harnessing Data for Positive Change: A Multi-Skilled Approach
 
-Welcome! I'm [Your Name], a data enthusiast with a diverse skillset focused on using data for good. Currently, I'm on a mission to leverage my data journalism and analysis background for impactful projects in health and environmental sciences. This journey involves honing my data science skills, building upon my existing proficiency in SQL, Python, JavaScript, and C++.
+Welcome! I'm @Jideib, Ibraheem Alawode, a data enthusiast with a diverse skillset focused on using data for good. Currently, I'm on a mission to leverage my data journalism and analysis background for impactful projects in health and environmental sciences. This journey involves honing my data science skills, building upon my existing proficiency in SQL, Python, JavaScript, and C++.
 
 **Bridging the Gap Between Analysis and Action**
 
